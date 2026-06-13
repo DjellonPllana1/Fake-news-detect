@@ -1,0 +1,5 @@
+metric,value
+rows_used_after_balanced_sampling,14000
+fake_news,7000
+true_news,7000
+empty_text_rows,0
